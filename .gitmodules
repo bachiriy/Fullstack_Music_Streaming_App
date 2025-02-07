@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/bachiriy/melodyGuard
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/bachiriy/musicstream
